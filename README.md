@@ -10,6 +10,6 @@ Se decidió seguir el diseño sugerido en el curso (imagen a continuación).
 ![Diseño figma sugerido por Alura](Imagenes/modelo-alura.webp)
 
 Encriptador siendo usado para descifrar el mensaje secreto de Alura:
-![Encriptador descifrando mensaje secreto](/Imagenes/encriptador-video.mp4)
+![Encriptador descifrando mensaje secreto](/Imagenes/encriptador-video.gif)
 
 Si deseas probar el encriptador, puedes hacerlo dando click [aquí](https://encriptador-mauve.vercel.app/).
