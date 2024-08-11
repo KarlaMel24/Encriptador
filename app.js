@@ -28,11 +28,6 @@ function encriptar(str_encriptada) {
     return str_encriptada;
 }
 
-/*function btn_encriptar() {
-    const texto_encriptado = encriptar(texto.value);
-    mensaje.textContent = texto_encriptado;
-}*/
-
 function btn_encriptar() {
     const texto_encriptado = encriptar(texto.value);
     textoEncriptado.textContent = texto_encriptado;
