@@ -8,3 +8,8 @@ El proyecto de este repositorio es un encriptador de texto, el cual sigue las si
 Este encriptador es el desafío del curso "Prácticando lógica de programación: Challenge Encriptador de texto" de Alura.
 Se decidió seguir el diseño sugerido en el curso (imagen a continuación)
 ![Diseño figma sugerido por Alura](Imagenes/modelo-alura.webp)
+
+Encriptador siendo usado para descifrar el mensaje secreto de Alura:
+![Encriptador descifrando mensaje secreto](/Imagenes/encriptador-video.mp4)
+
+Si deseas probar el encriptador, puedes hacerlo dando click ![aquí](https://encriptador-mauve.vercel.app/)
